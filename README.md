@@ -1,8 +1,8 @@
 ### AtliQ-Grands_Hospitality_Analysis_Python
 
-### Video Presentation Link: 
+#### Video Presentation Link: 
 
-### 🚨 𝐇𝐨𝐭𝐞𝐥 𝐁𝐨𝐨𝐤𝐢𝐧𝐠 𝐃𝐚𝐭𝐚 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐏𝐲𝐭𝐡𝐨𝐧 🏨📊
+#### 🚨 𝐇𝐨𝐭𝐞𝐥 𝐁𝐨𝐨𝐤𝐢𝐧𝐠 𝐃𝐚𝐭𝐚 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐏𝐲𝐭𝐡𝐨𝐧 🏨📊
 
 I recently completed a hands-on project using Python to analyze hotel booking data and extract meaningful business insights.
 
