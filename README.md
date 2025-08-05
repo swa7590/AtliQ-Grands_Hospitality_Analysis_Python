@@ -6,13 +6,11 @@
 
 I recently completed a hands-on project using Python to analyze hotel booking data and extract meaningful business insights.
 
+#### 🔍 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐅𝐨𝐜𝐮𝐬:
 
-### 🔍 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐅𝐨𝐜𝐮𝐬:
+To uncover trends in occupancy and revenue that can guide smarter decisions in the hospitality sector.
 
- To uncover trends in occupancy and revenue that can guide smarter decisions in the hospitality sector.
-
-
-### 🧰 𝐓𝐚𝐬𝐤𝐬 𝐂𝐨𝐦𝐩𝐥𝐞𝐭𝐞𝐝:
+#### 🧰 𝐓𝐚𝐬𝐤𝐬 𝐂𝐨𝐦𝐩𝐥𝐞𝐭𝐞𝐝:
 
   •  Cleaned and explored real-world booking data.
 
@@ -27,18 +25,16 @@ I recently completed a hands-on project using Python to analyze hotel booking da
   •  Created insightful charts and visuals using Matplotlib.
 
 
-
-### 📊 𝐊𝐞𝐲 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠𝐬 & 𝐑𝐞𝐬𝐮𝐥𝐭𝐬:
+#### 📊 𝐊𝐞𝐲 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠𝐬 & 𝐑𝐞𝐬𝐮𝐥𝐭𝐬:
 
   •  Discovered trends in revenue performance across cities and months.
 
   •  Identified which platforms deliver better business value.
 
   •  Strengthened skills in data analysis, visualization, and storytelling with data.
-
  
 
-### 🛠️ 𝐓𝐨𝐨𝐥𝐬 & 𝐓𝐞𝐜𝐡:
+#### 🛠️ 𝐓𝐨𝐨𝐥𝐬 & 𝐓𝐞𝐜𝐡:
 
     •  Python (Pandas, Matplotlib)
 
