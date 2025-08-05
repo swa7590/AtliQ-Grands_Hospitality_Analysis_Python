@@ -1,6 +1,6 @@
 ### AtliQ-Grands_Hospitality_Analysis_Python
 
-#### Video Presentation Link: 
+#### Video Presentation Link: https://www.linkedin.com/feed/update/urn:li:activity:7358519685375561729/
 
 #### 🚨 𝐇𝐨𝐭𝐞𝐥 𝐁𝐨𝐨𝐤𝐢𝐧𝐠 𝐃𝐚𝐭𝐚 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐏𝐲𝐭𝐡𝐨𝐧 🏨📊
 
